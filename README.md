@@ -1,2 +1,2 @@
 # assignment-vdt
-Read README in each folder for set up Hadoop, Kafka, Spark cluster
+Read README in each folder to set up Hadoop, Kafka, Spark cluster
