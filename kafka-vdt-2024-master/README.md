@@ -1,4 +1,4 @@
-# Set up Kafka
+# Set up Kafka - Nifi
 
 > Required: Máy cần cài đặt sẵn Docker. Cấu hình máy cần RAM >= 8GB. Môi trường thử nghiệm: Window 11
 
