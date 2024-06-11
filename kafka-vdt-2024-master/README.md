@@ -12,8 +12,6 @@ Các cấu hình của Kafka Broker xem tại [đây](https://docs.confluent.io/
 
 **B2:** Truy cập vào link [Kafka UI](http://localhost:8080) sẽ thấy kết quả như hình
 
-![Result 1](../master/assets/result-1.png)
-
 
 **B3:** Cd vao csv2kafka chay lenh 
 ```sh
